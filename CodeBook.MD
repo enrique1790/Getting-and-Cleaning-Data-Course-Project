@@ -1,5 +1,4 @@
 Data
-tidy_data.txt
 Each row contains, for a given subject and activity, 79 averaged signal measurements.
 Measurements
 Measurements are classified into two domains Time & Frequency
