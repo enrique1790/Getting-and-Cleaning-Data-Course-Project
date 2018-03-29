@@ -32,7 +32,6 @@ The variable names were replaced with descriptive variable names
 Acc- Converted to “Accelerometer”
 Gyro- Converted to “Gyroscope”
 Mag- Converted to “Magnitude”
-Std - “Standard Deviation”
 T- Prefix replaced by “time”
 F- Prefix replaced by “frequency”
 BodyBody- replaced incorrect label with “Body”
